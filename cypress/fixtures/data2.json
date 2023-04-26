@@ -1,0 +1,1026 @@
+[
+    {
+        "<ID>": "ATT_case_diameter",
+        "<Name>": "Case Diameter",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_season_us",
+        "<Name>": "Season Int.",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_dial_stone",
+        "<Name>": "Dial Stone",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_amazon_exclusive",
+        "<Name>": "Amazon Exclusive",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_ships_in_pkg",
+        "<Name>": "Ships In Pkg",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_ean",
+        "<Name>": "EAN",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 4",
+        "<Name>": "Feature 4",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_CASE_FINISH",
+        "<Name>": "Case Finish",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 5",
+        "<Name>": "Feature 5",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 6",
+        "<Name>": "Feature 6",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 7",
+        "<Name>": "Feature 7",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_czk",
+        "<Name>": "RRP CZK",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_Feature 1",
+        "<Name>": "Feature 1",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 2",
+        "<Name>": "Feature 2",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Feature 3",
+        "<Name>": "Feature 3",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_ATTACHMENT_FINISH",
+        "<Name>": "Attachment Finish",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_marketing_description",
+        "<Name>": "Marketing",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_CASE_LUGWIDTH",
+        "<Name>": "Case Lug Width",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_ATTACHMENT_TYPE",
+        "<Name>": "Attachment Type",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_TOP_RING_COLOR",
+        "<Name>": "Top Ring Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_MAP Tier",
+        "<Name>": "MAP Tier",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_INVENTORY_CATEGORY",
+        "<Name>": "Inventory Category",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_mop_type",
+        "<Name>": "MOP Type",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_attachment_color",
+        "<Name>": "Attachment Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_pln",
+        "<Name>": "RRP PLN",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_DISCONTINUE_DATE",
+        "<Name>": "Discontinue",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "isodate"
+    },
+    {
+        "<ID>": "ATT_rrp_gbp",
+        "<Name>": "RRP GBP",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_attachment_length",
+        "<Name>": "Band Length",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_CASE_ACCENT_COLOR",
+        "<Name>": "Case Accent Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_attachement_quick_release",
+        "<Name>": "Attachment Quick Release",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Icon 6",
+        "<Name>": "Icon 6",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 5",
+        "<Name>": "Icon 5",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 8",
+        "<Name>": "Icon 8",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_DISTRIBUTION_CODE",
+        "<Name>": "Distribution code",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Icon 7",
+        "<Name>": "Icon 7",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_non_stone",
+        "<Name>": "Non-Stone",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 2",
+        "<Name>": "Icon 2",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 1",
+        "<Name>": "Icon 1",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 4",
+        "<Name>": "Icon 4",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_Icon 3",
+        "<Name>": "Icon 3",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_online_from",
+        "<Name>": "Online From",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "isodate"
+    },
+    {
+        "<ID>": "ATT_diamond_carat_on_dial",
+        "<Name>": "Diamond Carat on Dial",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_best_sellers",
+        "<Name>": "Best Sellers",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_case_bezel",
+        "<Name>": "Case Bezel",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Icon 9",
+        "<Name>": "Icon 9",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_mass_market",
+        "<Name>": "Mass Market",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_wwpi",
+        "<Name>": "WWPI",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_ATTACHMENT_MATERIAL",
+        "<Name>": "Attachment Material",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_CASE_HEIGHT",
+        "<Name>": "Case Height",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_season_intl",
+        "<Name>": "Season U.S.",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_diamond_number_on_dial",
+        "<Name>": "Diamond Number on Dial",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "integer"
+    },
+    {
+        "<ID>": "ATT_band_cuff",
+        "<Name>": "Band Cuff",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_price_group",
+        "<Name>": "Price Group",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_Product_Type",
+        "<Name>": "Product Type",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_CASE_SPECIAL",
+        "<Name>": "Case Special",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_introduction_date_us",
+        "<Name>": "Introduction U.S.",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "isodate"
+    },
+    {
+        "<ID>": "ATT_internet_enabled",
+        "<Name>": "Internet Enabled",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "PDS Status",
+        "<Name>": "Status",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_CASE_WIDTH",
+        "<Name>": "Case Width",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_cable",
+        "<Name>": "Cable",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_marketing_ad_style",
+        "<Name>": "Marketing Advertised Style",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_ATTACHMENT_HARDWARE_COLOR",
+        "<Name>": "Attachment Hardware Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_occasions",
+        "<Name>": "Occasions",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_attachment_buckle_clasp_type",
+        "<Name>": "Attachment Buckle/Clasp Type",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_short_description",
+        "<Name>": "Short Description",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_product_story",
+        "<Name>": "Product Story",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "true",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_diamond_carat_on_case",
+        "<Name>": "Diamond Carat on Case",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_archive",
+        "<Name>": "Archive",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_CASE_MATERIAL",
+        "<Name>": "Case Material",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_sek",
+        "<Name>": "RRP SEK",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_mvt_Gender",
+        "<Name>": "Gender",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_WATER_RESISTANCY",
+        "<Name>": "Water Resist",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "integer"
+    },
+    {
+        "<ID>": "ATT_color_search",
+        "<Name>": "Color Search",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "true",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_diamond_number_on_case",
+        "<Name>": "Diamond Number on Case",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "integer"
+    },
+    {
+        "<ID>": "ATT_product_manager",
+        "<Name>": "Product Manager",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "true",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_online_exclusive",
+        "<Name>": "Online Exclusive",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_licensor_style_number",
+        "<Name>": "Licensor Style Number",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_WRIST_PROFILE",
+        "<Name>": "Attachment Wrist Profile",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_logo_style",
+        "<Name>": "Logo Style",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_swiss_type",
+        "<Name>": "Swiss Type",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_TOP_RING_MATERIAL",
+        "<Name>": "Top Ring Material",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_case_length",
+        "<Name>": "Case Length",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_DIAL_MARKINGS",
+        "<Name>": "Dial Markings",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_PRIME_VENDOR",
+        "<Name>": "Prime Vendor",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_INTRODUCTION_DATE",
+        "<Name>": "Introduction",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "isodate"
+    },
+    {
+        "<ID>": "ATT_rrp_usd",
+        "<Name>": "RRP USD",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_vendor_item_number",
+        "<Name>": "Vendor Item Number",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_collection",
+        "<Name>": "Collection",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_new_arrivals",
+        "<Name>": "New Arrivals",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_cross_border",
+        "<Name>": "Cross Border",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_GENDER",
+        "<Name>": "Gender",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_business_unit",
+        "<Name>": "Business Unit",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_STATUS",
+        "<Name>": "Status",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_ATTACHMENT_SPECIAL",
+        "<Name>": "Attachment Special",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_chf",
+        "<Name>": "RRP CHF",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_wrist_profile",
+        "<Name>": "Wrist Profile",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_DEMAND_SEGMENT",
+        "<Name>": "Demand Segment",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_dial_finish",
+        "<Name>": "Dial Finish",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_DIAL_COLOR",
+        "<Name>": "Dial Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_CASE_SIZE",
+        "<Name>": "Case Size",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_CRYSTAL_LENS",
+        "<Name>": "Crystal/Lens",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_brand",
+        "<Name>": "Brand",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_nrf_color_codes",
+        "<Name>": "NRF Color Codes",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_sub_brand",
+        "<Name>": "Sub-Brand",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_sub_collection",
+        "<Name>": "Sub Collection",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_feature_search",
+        "<Name>": "Feature Search",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "true",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_DIAL_LUMINANT_HANDS",
+        "<Name>": "Dial Luminant Hands",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_WARRANTY",
+        "<Name>": "Warranty",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_movement",
+        "<Name>": "Movement",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_fashion_story",
+        "<Name>": "Fashion Story",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_STYLE_NUM",
+        "<Name>": "Style Number",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_mvt_Brand",
+        "<Name>": "Brand",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_product_status",
+        "<Name>": "Product Status",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "true",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_ceramic",
+        "<Name>": "Ceramic",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_CASE_SHAPE",
+        "<Name>": "Case Shape",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_eur",
+        "<Name>": "RRP EUR",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_CASE_COLOR",
+        "<Name>": "Case Color",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_dkk",
+        "<Name>": "RRP DKK",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_orderable",
+        "<Name>": "Orderable",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_has_diamond",
+        "<Name>": "Has Diamond",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_country_of_origin_assembly",
+        "<Name>": "Country of Origin Assembly",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_rrp_nok",
+        "<Name>": "RRP NOK",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_his_n_hers",
+        "<Name>": "His and Hers",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_rrp_cad",
+        "<Name>": "RRP CAD",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "number"
+    },
+    {
+        "<ID>": "ATT_country_of_origin",
+        "<Name>": "Country of Origin",
+        "<Attribute Externally Maintained>": "false",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_t_bar",
+        "<Name>": "T-Bar",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "LOV"
+    },
+    {
+        "<ID>": "ATT_DESCRIPTION",
+        "<Name>": "Description",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "true",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    },
+    {
+        "<ID>": "ATT_upc",
+        "<Name>": "UPC",
+        "<Attribute Externally Maintained>": "true",
+        "<Attribute Mandatory>": "false",
+        "<Attribute Multi Valued>": "false",
+        "<Attribute Validation Base Type>": "text"
+    }
+]

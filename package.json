@@ -1,0 +1,50 @@
+{
+  "name": "firstcypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "riversand_test": "node_modules\\.bin\\cypress run --spec cypress\\integration\\examples\\BDD\\cfabdd.feature --headed --browser chrome",
+    "Step_test": "node_modules\\.bin\\cypress run --spec cypress\\integration\\examples\\BDD\\cfabdd2.feature --headed --browser chrome",
+    "test":"echo \"Error: no test specified\" && exit 1",
+    "cy:run_spec":"npx cypress run --spec cypress\\integration\\examples\\BDD\\cfabdd2.feature ",
+    "headed": "npx run cy:run_spec -- --headed --browser chrome & npm run cy:run_spec -- --headed --browser electron",
+    "chrome": "npx run test -- --headed browser firefox",
+    "generatereports": "npm run test -- --reporter mochawesome --browser chrome --headed"
+  },
+  "author": "sagar",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumbezr-html-reporter": "^5.5.0",
+    "cypress": "^12.10.0",
+    "cypress-localstorage-commands": "^2.2.2",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-multi-reporters": "^1.6.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": [
+
+      "C://Users//sbavisa//CypressAutomation//cypress//integration//examples//BDD//cfabdd//cfa_stepdefinition.js",
+      "C://Users//sbavisa//CypressAutomation//cypress//integration//examples//BDD//cfabdd//cfa2_stepdefinition.js"
+    ],
+    "json": {
+      "enabled": true,
+      "formatter": "cypress/cucumber-json-formatter.exe",
+      "output": "cypress/integration/examples/cucumber_reports/cfaresult.json"
+    }
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.0",
+    "@cypress/browserify-preprocessor": "latest",
+    "cucumber-json-report-formatter": "^0.1.4",
+    "cypress-cucumber-tagging": "^1.0.3",
+    "cypress-iframe": "^1.0.1",
+    "jsonpath": "^1.1.1",
+    "jwt-decode": "^3.1.2",
+    "multiple-cucumber-html-reporter": "^3.0.2",
+    "node-xlsx": "^0.21.0",
+    "rimraf": "^4.4.0",
+    "xlsx": "^0.18.5"
+  }
+}

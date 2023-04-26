@@ -1,0 +1,718 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "test-navistar-application;create-\"vendor-item\"",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Create \"Vendor Item\"",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 3,
+            "name": "User is on step Login page",
+            "result": {
+              "duration": 6459000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 4,
+            "name": "user Enter Username",
+            "result": {
+              "duration": 536000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 5,
+            "name": "user Enter Password",
+            "result": {
+              "duration": 402000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 6,
+            "name": "user clicks on Login button",
+            "result": {
+              "duration": 33623000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "after succesfull login user click on Quick Actions button",
+            "result": {
+              "duration": 2382000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 8,
+            "name": "user click on \"Vendor Item\" and User needs to fill mandatory attributes to create \"Vendor Item\"",
+            "result": {
+              "duration": 17461000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 9,
+            "name": "user  clicks on \"Brand AAIAID\" and selects value from the given dropdown \"Brand AAIAID\"",
+            "result": {
+              "duration": 4911000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 10,
+            "name": "user enters some text in \"Part Number\"",
+            "result": {
+              "duration": 762000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 11,
+            "name": "user  clicks on \"Parts Classification\" and expand and selects the value from the given dropdown \"Parts Classification\"",
+            "result": {
+              "duration": 7286000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 12,
+            "name": "user click on Create button",
+            "result": {
+              "duration": 192000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 13,
+            "name": "user click on Next Button",
+            "result": {
+              "duration": 3311000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 14,
+            "name": "user click on \"Show me the entity\" button",
+            "result": {
+              "duration": 917000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 15,
+            "name": "user click on \"Hazardous and Regulatory Compliance\" link",
+            "result": {
+              "duration": 21773000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 16,
+            "name": "user selects value from the given dropdown Harmonized Tariff Code",
+            "result": {
+              "duration": 7117000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 17,
+            "name": "user click on Save Button1",
+            "result": {
+              "duration": 2214000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 18,
+            "name": "user click on Summary tab",
+            "result": {
+              "duration": 431000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 19,
+            "name": "user click on \"Required Attributes Validation\" link",
+            "result": {
+              "duration": 10819000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 20,
+            "name": "user  clicks on \"Country of Origin Primary \" and selects value from the given dropdown \"Country of Origin Primary \"",
+            "result": {
+              "duration": 1528000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 21,
+            "name": "user click on Add Button of \"Dimensions - Each\" attributes",
+            "result": {
+              "duration": 4078000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 22,
+            "name": "user enters some decimal value in \"Merchandising Height\"",
+            "result": {
+              "duration": 699000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 23,
+            "name": "user enters some decimal value in \"Merchandising Length\"",
+            "result": {
+              "duration": 820000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 24,
+            "name": "user enters some decimal value in \"Merchandising Width\"",
+            "result": {
+              "duration": 917000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 25,
+            "name": "user enters some decimal value in \"Shipping Height\"",
+            "result": {
+              "duration": 914000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 26,
+            "name": "user enters some decimal value in \"Shipping Length\"",
+            "result": {
+              "duration": 886000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 27,
+            "name": "user enters some decimal value in \"Shipping Width\"",
+            "result": {
+              "duration": 2834000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 28,
+            "name": "user  clicks on \"UOM\" and selects value from the given dropdown \"UOM\"",
+            "result": {
+              "duration": 6554000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 29,
+            "name": "user  clicks on \"Package UOM - Each\" and selects value from the given dropdown \"Package UOM - Each\"",
+            "result": {
+              "duration": 2993000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 30,
+            "name": "user enters some decimal value in \"Quantity of Eaches in Package - Each\"",
+            "result": {
+              "duration": 939000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 31,
+            "name": "user click on Add Button of \"Weights - Each\" attributes",
+            "result": {
+              "duration": 412000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 32,
+            "name": "user enters some decimal value in \"Dimensional Weight\"",
+            "result": {
+              "duration": 820000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 33,
+            "name": "user  clicks on \"UOM\" and selects value from the given dropdown \"UOM1\"",
+            "result": {
+              "duration": 6532000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 34,
+            "name": "user enters some decimal value in \"Weight\"",
+            "result": {
+              "duration": 1056000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 35,
+            "name": "user  clicks on \"Item Container Type\" and selects value from the given dropdown \"Item Container Type\"",
+            "result": {
+              "duration": 3394000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 36,
+            "name": "user  clicks on \"Item Quantity Size\" and selects value from the given dropdown \"Item Quantity Size\" and enter the numeric value",
+            "result": {
+              "duration": 969000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 37,
+            "name": "user  clicks on \"Item Quantity Size UOM\" and selects value from the given dropdown \"Item Quantity Size UOM\"",
+            "result": {
+              "duration": 4818000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 38,
+            "name": "user  clicks on \"Quantity per Application\" and selects value from the given dropdown \"Quantity per Application\" enter the numeric value",
+            "result": {
+              "duration": 4352000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 39,
+            "name": "user  clicks on \"Quantity per Application Qualifier\" and selects value from the given dropdown \"Quantity per Application Qualifier\"",
+            "result": {
+              "duration": 799000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 40,
+            "name": "user  clicks on \"Quantity per Application UOM\" and selects value from the given dropdown \"Quantity per Application UOM\"",
+            "result": {
+              "duration": 3752000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 41,
+            "name": "user enters some decimal value in \"Maximum Cases per Pallet Layer\"",
+            "result": {
+              "duration": 981000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 42,
+            "name": "user enters some decimal value in \"Pallet Layer Maximum\"",
+            "result": {
+              "duration": 1013000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 43,
+            "name": "user enters some decimal value in \"Navistar Part Number\"",
+            "result": {
+              "duration": 474000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 44,
+            "name": "user enters some text field in \"Part Description\"",
+            "result": {
+              "duration": 1082000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 45,
+            "name": "user click on Add Button of \"Pricing\" attributes",
+            "result": {
+              "duration": 646000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 46,
+            "name": "user  clicks on \"Currency Code\" and selects value from the given dropdown \"Currency Code\"",
+            "result": {
+              "duration": 5106000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 47,
+            "name": "user  clicks on \"Expiration Date\" and selects date from the given dropdown \"Expiration Date\"",
+            "result": {
+              "duration": 1298000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 48,
+            "name": "user  clicks on \"Price\" and selects value from the given dropdown \"price\" enter the decimal value",
+            "result": {
+              "duration": 1046000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 49,
+            "name": "user  clicks on \"Price Break Quantity\" and selects value from the given dropdown \"Price Break Quantity\" enter the integer value",
+            "result": {
+              "duration": 3111000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 50,
+            "name": "user  selects value from the given dropdown \"Price Break Quantity UOM\"",
+            "result": {
+              "duration": 4702000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 51,
+            "name": "user  clicks on \"Price Sheet Level Effective Date\" and selects date from the given dropdown \"Price Sheet Level Effective Date\"",
+            "result": {
+              "duration": 1203000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 52,
+            "name": "user enters some decimal value in \"Price Sheet Number\"",
+            "result": {
+              "duration": 960000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 53,
+            "name": "user  clicks on \"Price Type\" and selects date from the given dropdown \"Price Type\"",
+            "result": {
+              "duration": 6940000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 54,
+            "name": "user enters some text field in \"Price Type Description\"",
+            "result": {
+              "duration": 1588000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 55,
+            "name": "user  clicks on \"Price UOM\" and selects date from the given dropdown \"Price UOM\"",
+            "result": {
+              "duration": 4730000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 56,
+            "name": "user  clicks on \"Product Description – Long\" and enter some text value in \"Enter more values here to add\"",
+            "result": {
+              "duration": 6074000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 57,
+            "name": "user click on Save Button",
+            "result": {
+              "duration": 8622000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 58,
+            "name": "user click on Summary tab1",
+            "result": {
+              "duration": 6369000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 59,
+            "name": "user click on Sumbit button in workflow section",
+            "result": {
+              "duration": 5443000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 60,
+            "name": "successful message should be displayed",
+            "result": {
+              "duration": 12910000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "test-navistar-application",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Test Navistar application",
+    "uri": "cypress\\integration\\examples\\BDD\\cfabdd.feature"
+  }
+]
