@@ -10,7 +10,8 @@
     "cy:run_spec":"npx cypress run --spec cypress\\integration\\examples\\BDD\\cfabdd2.feature ",
     "headed": "npx run cy:run_spec -- --headed --browser chrome & npm run cy:run_spec -- --headed --browser electron",
     "chrome": "npx run test -- --headed browser firefox",
-    "generatereports": "npm run test -- --reporter mochawesome --browser chrome --headed"
+    "generatereports": "npm run test -- --reporter mochawesome --browser chrome --headed",
+    "cy:report" : "cypress run"
   },
   "author": "sagar",
   "license": "ISC",
