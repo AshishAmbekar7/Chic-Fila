@@ -1,0 +1,17 @@
+name: Chic-Fila
+on: push
+jobs:
+    greet:
+      
+        runs-on: windows-latest
+     
+        steps:
+            # Runs a single command using the runners shell
+            - name: Get code
+              uses: actions/checkout@v3
+            - name: Install NodeJS
+              uses: actions/setup-node@v18.15.0
+              with:
+                build: npm run build
+                start: npm start
+                browser: chrome
