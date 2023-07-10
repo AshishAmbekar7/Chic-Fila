@@ -1,8 +1,14 @@
-name: Chic-Fila workflow
-on: workflow_dispatch
+name: Cypress Tests
+on: [workflow_dispatch]
 jobs:
-  first-job:
-  runs-on: ubuntu-latest
-  steps:
-  - name: Create new region
-      run: echo"T!"
+  cypress-run:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.5.3
+      - name: Cypress.io
+        uses: cypress-io/github-action@v5.8.2
+        with: 
+         build: npm run build
+         start: npm start
+         browser: chrome
