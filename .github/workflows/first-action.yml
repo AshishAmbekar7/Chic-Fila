@@ -1,0 +1,11 @@
+name: Chic-Fila workflow
+on: workflow_dispatch
+jobs:
+  first-job:
+  runs-on: ubuntu-latest
+  steps:
+  - name: Create new region
+     run: echo "Start!"
+     - name: Update region
+     run: echo "Done - bye!"
+     
